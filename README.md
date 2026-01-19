@@ -66,3 +66,6 @@ neste projeto vamos usar v19.2.7
 https://v19.material.angular.dev/guide/getting-started
 
 ng add @angular/material
+
+https://v19.material.angular.dev/components/button/api
+import {MatButtonModule} from '@angular/material/button';
