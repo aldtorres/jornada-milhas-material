@@ -72,6 +72,12 @@ import {MatButtonModule} from '@angular/material/button';
 
 paletas de cores personalizadas
 https://material.angular.dev/guide/theming#prebuilt-color-palettes
-ng generate @angular/material:theme-color
+
     - após execução gerar o arquivo
         /home/atorres/alura/angular/jornada-milhas-material/src/_theme-colors.scss
+
+# icone
+https://material.angular.dev/components/icon/overview
+    https://fonts.google.com/icons
+
+    https://fonts.google.com/icons?selected=Material+Symbols+Outlined:login:FILL@0;wght@400;GRAD@0;opsz@24&icon.query=logi&icon.size=24&icon.color=%231f1f1f
