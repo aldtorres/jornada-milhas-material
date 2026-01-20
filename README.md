@@ -69,3 +69,9 @@ ng add @angular/material
 
 https://v19.material.angular.dev/components/button/api
 import {MatButtonModule} from '@angular/material/button';
+
+paletas de cores personalizadas
+https://material.angular.dev/guide/theming#prebuilt-color-palettes
+ng generate @angular/material:theme-color
+    - após execução gerar o arquivo
+        /home/atorres/alura/angular/jornada-milhas-material/src/_theme-colors.scss
